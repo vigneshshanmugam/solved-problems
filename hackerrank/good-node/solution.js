@@ -60,7 +60,7 @@ Since all the other nodes point to a good node (node #5), every node becomes a g
 function findGoodNode(input){
     
     var length = input[0];
-    var inputArr = input.splice(1);
+    var inputArr = input.slice(1);
 
     if(length < 1) return 0;
     for(var k=0; k < length; k++){
