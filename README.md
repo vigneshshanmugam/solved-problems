@@ -1,2 +1,3 @@
 # solved-problems
-Solved puzzles/problems for various portals in JavaScript. 
+
+Solved puzzles/problems in JavaScript. 
